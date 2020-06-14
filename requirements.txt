@@ -1,0 +1,11 @@
+jupyterlab
+pandas
+plotly-express
+voila
+ipywidgets
+numpy
+display
+matplotlib
+folium
+plotly
+seaborn
